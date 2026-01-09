@@ -1,0 +1,7 @@
+# IDE specific files (Eclipse/STS)
+.classpath
+.project
+.settings/
+
+# Build artifacts
+target/
